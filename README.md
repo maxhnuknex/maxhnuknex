@@ -1,6 +1,6 @@
 # Backend Developer
 
-Go Backend Developer  of software engineering experience, specializing in building scalable microservices and high-performance APIs. 
+Go Backend Developer с опытом разработки программного обеспечения, специализирующийся на создании масштабируемых микросервисов и высокопроизводительных API.
 
 ## Technologies
 
