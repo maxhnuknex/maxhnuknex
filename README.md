@@ -1,6 +1,6 @@
 # Backend Developer
 
-Разрабатываю backend-сервисы и приложения, работаю преимущественно с Go и PostgreSQL. Интересуюсь серверной разработкой, HTTP/API, фоновой обработкой задач и проектированием backend-систем.
+Go Backend Developer  of software engineering experience, specializing in building scalable microservices and high-performance APIs. 
 
 ## Technologies
 
