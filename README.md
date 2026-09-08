@@ -16,6 +16,10 @@ Go Backend Developer с опытом разработки программног
 
 ## Projects
 
+### [Delivery Service](https://github.com/maxhnuknex/delivery-service)
+
+Backend-сервис доставки еды на Go. Поддерживает работу с ресторанами и магазинами, меню, заказами, изменением статусов через webhook-интеграции и PostgreSQL. Проект контейнеризирован с помощью Docker Compose, содержит миграции, unit-, repository- и E2E-тесты.
+
 ### [BarberFlow](https://github.com/maxhnuknex/barberflow)
 
 Telegram-сервис онлайн-записи для барбершопов, позволяющий клиентам самостоятельно бронировать визиты, а администратору управлять записями и напоминаниями.
